@@ -1,5 +1,6 @@
-// ./lockerclip/lockerclip.scad
-// Copyright (C) 2013 Christopher Robertsi
+// lockerclip.scad
+// 
+// Copyright (C) 2013 Christopher Roberts
 
 // Base parameters
 width           = 9;
